@@ -20,6 +20,6 @@ end
 
 gem 'jquery-rails'
 
-gem 'unicorn'
-# gem 'puma'
+# gem 'unicorn'
+gem 'puma'
 # gem 'thin'
