@@ -23,3 +23,10 @@ gem 'jquery-rails'
 # gem 'unicorn'
 gem 'puma'
 # gem 'thin'
+
+gem 'route_downcaser'
+
+gem 'memcachier'
+gem 'rack-cache'
+gem 'dalli'
+gem 'kgio'
